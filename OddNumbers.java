@@ -1,9 +1,8 @@
+import java.util.Scanner;
 
-import java.util.*;
-public class EvenNumber {
+public class OddNumbers {
 
     public static void main(String[] args) {
-        
         Scanner sc = new Scanner(System.in);
 
         int start , end ; 
@@ -14,11 +13,11 @@ public class EvenNumber {
         System.out.print("Enter Ending Number For Range   : ");
         end = sc.nextInt();
 
-        System.out.println("Even Number between " + start  + " and " + end );
+        System.out.println("Odd Number between " + start  + " and " + end );
 
         for(int i = start ; i <= end ; i++)
         {
-            if(i % 2 == 0)
+            if(i % 2 != 0)
             {
                 System.out.print(i + " ");
             }
