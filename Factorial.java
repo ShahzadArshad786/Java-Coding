@@ -18,6 +18,8 @@ class Factorial
       }
 
       System.out.print("Factorial of" + num + " is : " + fact);
+      
+      sc.close();
     }
 
 }

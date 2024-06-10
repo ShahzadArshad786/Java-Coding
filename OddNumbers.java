@@ -13,7 +13,7 @@ public class OddNumbers {
         System.out.print("Enter Ending Number For Range   : ");
         end = sc.nextInt();
 
-        System.out.println("Odd Number between " + start  + " and " + end );
+        System.out.println("Odd Numbers between " + start  + " and " + end );
 
         for(int i = start ; i <= end ; i++)
         {
@@ -23,6 +23,7 @@ public class OddNumbers {
             }
             
         }
+        sc.close() ;
     }
     
 }
