@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class EvenNumbers {
+public class EvenNumbersBetweenRange {
 
     public static void main(String[] args) {
         
