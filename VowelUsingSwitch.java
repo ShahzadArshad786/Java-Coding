@@ -1,7 +1,10 @@
 import java.util.*;
+
 public class VowelUsingSwitch {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
+        
         System.out.print("Enter Any Character : ");
         char ch = sc.next().charAt(0);  
         
@@ -35,7 +38,7 @@ public class VowelUsingSwitch {
             default:
             System.out.println("Invalid Character");
         }
-        sc.close();
+        sc.close();E
     }
     
 }
