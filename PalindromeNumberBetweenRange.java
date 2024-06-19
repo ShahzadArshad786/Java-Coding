@@ -19,20 +19,16 @@ public class PalindromeNumberBetweenRange {
         for(int i = start; i <= end ; i++)
         {
             rev = 0 ; 
-           
+    
             for( int j = i ; j !=0 ; j = j / 10)
-            
             {
                 digit = j % 10 ; 
-                rev   = (rev * 10) + digit ;
-                 
+                rev   = (rev * 10) + digit ;  
             }
 
             if(rev == i)
             {
-
             System.out.print(i + "  ");
-
             }
         }
         sc.close();   
