@@ -38,7 +38,7 @@ public class VowelUsingSwitch {
             default:
             System.out.println("Invalid Character");
         }
-        sc.close();E
+        sc.close();
     }
     
 }
