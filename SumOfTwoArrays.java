@@ -1,6 +1,5 @@
 
 import java.util.*;
-
 public class SumOfTwoArrays {
     public static void main(String[] args) {
     
@@ -33,7 +32,6 @@ public class SumOfTwoArrays {
     {
         System.out.print("\nSize of Both Arrays Should be Equal\n");
     }
-    
     else 
     {
         System.out.print("\nEnter "+ size2 + " Elements in 2nd Array\n");

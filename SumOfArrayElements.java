@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class SumOfArrayElements {
     public static void main(String[] args) {
     
@@ -30,9 +29,6 @@ public class SumOfArrayElements {
     }
 	
 	System.out.print("\n\nSum of Array Elements are  : " + sum); 
-
 	sc.close();
-
     }
-    
 }
