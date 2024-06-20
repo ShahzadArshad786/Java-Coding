@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ReverseArray {
     public static void main(String[] args) {
         
@@ -34,5 +33,4 @@ public class ReverseArray {
 	}
     sc.close();
     }
-    
 }
