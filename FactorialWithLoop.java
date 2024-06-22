@@ -2,6 +2,7 @@
    Write a Program using Java that inputs any positive integer and print its factorial 
    using for loop. 
 */
+
 import java.util.*;
 public class FactorialWithLoop {
     public static void main(String[] args) {

@@ -4,7 +4,6 @@
  */
 
 import java.util.*;
-
 public class CountDigitsOfNumber {
     public static void main(String[] args) {
         
@@ -17,7 +16,6 @@ public class CountDigitsOfNumber {
 
         for( int i = num ; i != 0 ; i = i / 10 )
         {
-            
             count = count + 1 ; 
         }
         System.out.print("\nYou Entered Number : " + num); 

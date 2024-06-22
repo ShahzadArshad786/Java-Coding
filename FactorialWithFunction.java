@@ -4,7 +4,6 @@
    and prints the Factorial of a Number. 
 */
 import java.util.*;
-
 public class FactorialWithFunction {
 
     static void Factorial(int n)
@@ -26,6 +25,5 @@ public class FactorialWithFunction {
 
     Factorial(num);
     sc.close();
-
    }
 }
