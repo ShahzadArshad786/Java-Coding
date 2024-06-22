@@ -1,3 +1,8 @@
+/*
+    Write a Program using Java that inputs any positive integer, count the total number of 
+    Digits in the given integer using loop. 
+ */
+
 import java.util.*;
 
 public class CountDigitsOfNumber {
@@ -19,8 +24,5 @@ public class CountDigitsOfNumber {
         System.out.print("\n\nTotal Digits of a " + num + " are : " + count);
            
         sc.close();    
-
-
     }
-    
 }

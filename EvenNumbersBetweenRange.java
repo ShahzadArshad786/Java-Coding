@@ -1,7 +1,9 @@
-
+/* 
+   Write a Program using Java that inputs starting and ending range and prints all 
+   Even numbers between input ranges using loop. 
+*/
 import java.util.*;
 public class EvenNumbersBetweenRange {
-
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
@@ -23,7 +25,6 @@ public class EvenNumbersBetweenRange {
                 System.out.print(i + " ");
             }     
         }
-
         sc.close();
     }  
 }

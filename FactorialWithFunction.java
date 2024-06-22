@@ -1,10 +1,15 @@
+/* 
+   Write a Program using Java that inputs an Integer Number and passes the 
+   Number to a function, that calculates the Factorial of a input number 
+   and prints the Factorial of a Number. 
+*/
 import java.util.*;
 
 public class FactorialWithFunction {
 
-    int fact = 1 ; 
-    public void Factorial(int n)
+    static void Factorial(int n)
     {
+        int fact = 1 ; 
         for(int i = 1 ; i <= n ; i++)
         {
             fact = fact * i ; 
@@ -14,17 +19,13 @@ public class FactorialWithFunction {
     }
     public static void main(String[] args) {
         
-    FactorialWithFunction fact = new FactorialWithFunction();
-
     Scanner sc = new Scanner(System.in);
 
     System.out.print("Enter Any Positive Number : = ");
     int num = sc.nextInt();
 
-    fact.Factorial(num);
-
+    Factorial(num);
     sc.close();
 
-    }
-    
+   }
 }

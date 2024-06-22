@@ -1,6 +1,10 @@
+/*
+    Write a Program using Java that inputs any positive integer and checks whether 
+    it is an Even or not using IF-Else Structure. 
+ */
+
 import java.util.*;
 public class SingleEvenNumber {
-
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
@@ -19,6 +23,5 @@ public class SingleEvenNumber {
                 System.out.print(num + " is Not a Even Number");
             }
         sc.close();
-
     }
 }

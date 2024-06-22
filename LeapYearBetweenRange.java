@@ -1,8 +1,10 @@
-
+/* 
+   Write a Program using Java that inputs a starting Year and end year as range
+   and prints all Leap Years between given range. 
+*/
 import java.util.Scanner;
 
 public class LeapYearBetweenRange {
-
     public static void main(String[] args) {
      
         Scanner sc = new Scanner(System.in);
@@ -24,8 +26,6 @@ public class LeapYearBetweenRange {
                 System.out.println(i);
             } 
         }
-
-    sc.close();
-
+        sc.close();
     }    
 }
