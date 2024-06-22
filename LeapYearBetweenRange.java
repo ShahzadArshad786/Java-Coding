@@ -2,7 +2,7 @@
    Write a Program using Java that inputs a starting Year and end year as range
    and prints all Leap Years between given range. 
 */
-import java.util.Scanner;
+import java.util.*;
 
 public class LeapYearBetweenRange {
     public static void main(String[] args) {
