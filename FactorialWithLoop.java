@@ -1,5 +1,8 @@
+/* 
+   Write a Program using Java that inputs any positive integer and print its factorial 
+   using for loop. 
+*/
 import java.util.*;
-
 public class FactorialWithLoop {
     public static void main(String[] args) {
         
@@ -14,10 +17,7 @@ public class FactorialWithLoop {
     {
         fact = fact * i ; 
     }
-
     System.out.print("\nFactorial of " + num + " is : " + fact);
-
     sc.close();
-    }
-    
+    } 
 }
