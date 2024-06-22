@@ -2,6 +2,7 @@
     Write a Java Program that inputs 5-Digits number from the user and displays it 
     in reverse order. For example if the user enters 12345, it displays 54321. 
  */
+
 import java.util.*;
 public class ReverseNumber5Digits {
     public static void main(String[] args) {

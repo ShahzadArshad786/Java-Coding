@@ -3,6 +3,7 @@
     number to a Table() function then it displays a table of that number using 
     for loop. 
 */
+
 import java.util.Scanner;
 public class TableOfNumberUsingFunction {
     

@@ -2,6 +2,7 @@
     Write a Java Program that inputs a number from the user and displays a 
     table of that number using for loop. 
 */
+
 import java.util.Scanner;
 public class TableOfNumberUsingLoop {
     public static void main(String[] args) {

@@ -2,6 +2,7 @@
     Write a Java Program that inputs two Numbers, swaps the values using 
     without third variable and then display the values before and after swapping. 
 */
+
 import java.util.*;
 public class SwappingValueWithout3rd {
     public static void main(String[] args) {

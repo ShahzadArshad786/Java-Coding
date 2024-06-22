@@ -2,6 +2,7 @@
     Write a Java Program that inputs 3-Digits number from the user and displays it 
     in reverse order. For example if the user enters 123, it displays 321. 
  */
+
 import java.util.*;
 public class ReverseNumber3Digit {
     public static void main(String[] args) {

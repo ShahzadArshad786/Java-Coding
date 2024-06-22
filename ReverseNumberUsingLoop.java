@@ -3,6 +3,7 @@
    Example if the user enters 2765, the function should reverse it so that 
    it becomes 5672.  
 */
+
 import java.util.*; 
 public class ReverseNumberUsingLoop
 {

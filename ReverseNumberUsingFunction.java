@@ -4,6 +4,7 @@
     it becomes 5672. The Reverse () function should accept the number as an input parameter and return 
     the reverse number.
 */
+
 import java.util.*;
 public class ReverseNumberUsingFunction {
    

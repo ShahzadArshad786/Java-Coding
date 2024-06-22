@@ -2,6 +2,7 @@
    Write a Java program to input starting and ending range/limit from user 
    and prints all Perfect Numbers between given Range.
 */
+
 import java.util.*;
 public class PerfectNumberBetweenRange {
     public static void main(String[] args) {

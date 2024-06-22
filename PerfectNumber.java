@@ -1,7 +1,6 @@
 /* Write a Java program to input any integer number and check whether a number is a Perfect or not.
    A perfect number is a number that is numerically equal to the sum of its divisors exculsing  number itself.
-   For example, 6 is a perfect number because the divisors of 6 are 1, 2, 3 and 
-   1 + 2 + 3 = 6. 
+   For example, 6 is a perfect number because the divisors of 6 are 1, 2, 3 and 1 + 2 + 3 = 6. 
 */
 
 import java.util.*; 
