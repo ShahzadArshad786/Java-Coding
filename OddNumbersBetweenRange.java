@@ -3,8 +3,10 @@
    Odd numbers between input ranges.
 */
 import java.util.Scanner;
+
 public class OddNumbersBetweenRange {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int start , end ; 
