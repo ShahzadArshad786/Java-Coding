@@ -1,7 +1,8 @@
 /*
-    Write a Java Program that inputs a string and find the characters of string 
-    using loop. 
+    Write a Java Program that inputs a string and find the total number of 
+    characters in the string using for loop. 
 */
+
 import java.util.Scanner;
 public class FindCharactersInString {
     public static void main(String[] args) {

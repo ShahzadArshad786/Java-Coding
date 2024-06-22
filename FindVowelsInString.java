@@ -1,6 +1,6 @@
 /*
-    Write a Java Program that inputs a string and find the total number of vowels in a 
-     string using for loop. 
+    Write a Java Program that inputs a string and find the total number of vowels in 
+    the string using for loop. 
 */
 
 import java.util.Scanner;
