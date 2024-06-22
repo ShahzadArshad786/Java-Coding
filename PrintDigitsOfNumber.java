@@ -1,7 +1,10 @@
+/* 
+   Write a Java Program that inputs any positive integer number and print 
+   each digit of input number on the separate lines.  
+*/
+
 import java.util.*; 
-
 public class PrintDigitsOfNumber {
-
     public static void main(String[] args) {
        
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,9 @@
-import java.util.Scanner;
+/* 
+   Write a Java Program that inputs two numbers as starting and ending range 
+   and prints all Prime numbers between input ranges. 
+*/
 
+import java.util.Scanner;
 public class PrimeNumberBetweenRange {
 
     public static void main(String[] args) {
@@ -32,7 +36,6 @@ public class PrimeNumberBetweenRange {
                System.out.print( i + " ");
             }  
         }
-
         sc.close();
     }   
 }

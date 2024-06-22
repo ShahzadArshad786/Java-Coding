@@ -1,5 +1,8 @@
+/*
+    Write a Java Program that inputs a Number and prints Number, Square 
+    and Cube till input number using for loop. 
+*/
 import java.util.Scanner; 
-
 public class SquareAndCubeUsingLoop {
     public static void main(String[] args) {
         

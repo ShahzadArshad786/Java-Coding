@@ -1,7 +1,9 @@
+/*
+ Write a Java Program that inputs an integer and displays sum of its digits. 
+ For example the program should display 9 if the use enters 135. 
+*/
 import java.util.Scanner; 
-
 public class SumofDigitsofNumber {
-    
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);

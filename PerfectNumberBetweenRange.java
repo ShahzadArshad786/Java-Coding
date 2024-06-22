@@ -1,7 +1,9 @@
+/* 
+   Write a Java program to input starting and ending range/limit from user 
+   and prints all Perfect Numbers between given Range.
+*/
 import java.util.*;
-
 public class PerfectNumberBetweenRange {
-
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);
@@ -26,13 +28,11 @@ public class PerfectNumberBetweenRange {
                 } 
             }
 
-        if(sum == i)
-        {
-            System.out.print( i + "  " );
+            if(sum == i)
+            {
+                System.out.print( i + "  " );
+            }
         }
-    }
-       
-    sc.close();
-
+        sc.close();
     }  
 }

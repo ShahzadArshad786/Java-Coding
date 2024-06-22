@@ -1,5 +1,8 @@
+/* 
+   Write a Java program to input starting and ending limit from user and prints all 
+   palindrome numbers in a given range.
+*/
 import java.util.*;
-
 public class PalindromeNumberBetweenRange {
 
     public static void main(String[] args) {

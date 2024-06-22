@@ -1,3 +1,7 @@
+/* 
+   Write a Program using Java that inputs any positive integer number and checks 
+   whether it is a Odd or not using if else structure. 
+*/
 import java.util.*;
 public class SingleOddNumber {
     public static void main(String[] args) {
@@ -17,8 +21,6 @@ public class SingleOddNumber {
             {
                 System.out.print(num + " is Not a Odd Number");
             }
-        sc.close();
-
+            sc.close();
     }
-    
 }

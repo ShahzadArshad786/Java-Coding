@@ -1,5 +1,8 @@
+/*
+    Write a Java Program that inputs two Numbers, swaps the values using 
+    third variable and then display the values before and after swapping. 
+*/
 import java.util.Scanner;
-
 public class SwapValuesWith3rdVariable {
 
     public static void main(String[] args) {
@@ -29,7 +32,5 @@ public class SwapValuesWith3rdVariable {
     System.out.println("Y : " + y);
 
     sc.close();   
-
     }
-    
 }

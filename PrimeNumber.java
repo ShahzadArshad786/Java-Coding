@@ -1,7 +1,9 @@
+/* 
+   Write a Program using Java that inputs any positive integer and checks whether it 
+   is a prime or not using for loop. 
+*/
 import java.util.*;
-
 public class PrimeNumber {
-
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);

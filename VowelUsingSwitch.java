@@ -1,5 +1,8 @@
+/* 
+   Write a Java Program that inputs any single character using keyboard and 
+   checks whether it is a vowel or not using switch Structure. 
+*/
 import java.util.*;
-
 public class VowelUsingSwitch {
     public static void main(String[] args) {
 
@@ -39,6 +42,5 @@ public class VowelUsingSwitch {
             System.out.println("Invalid Character");
         }
         sc.close();
-    }
-    
+    }  
 }

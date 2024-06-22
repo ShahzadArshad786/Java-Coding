@@ -1,5 +1,9 @@
-import java.util.*;
+/* 
+   Write a Java Program that inputs any single character using keyboard and 
+   checks whether it is a vowel or not using if else Structure. 
+*/
 
+import java.util.*;
 public class VowelUsingIFELSE {
     public static void main(String[] args) {
         
@@ -12,14 +16,13 @@ public class VowelUsingIFELSE {
            ch =='I' || ch == 'i' || ch =='O' || ch == 'o' ||
            ch == 'U' || ch == 'u' )
            {
-            System.out.println(ch + " is a Vowel"); 
+                System.out.println(ch + " is a Vowel"); 
            }
 
            else 
            {
-            System.out.println("Invalid Character");
+                System.out.println("Invalid Character");
            }
         sc.close();
     }
-    
 }
