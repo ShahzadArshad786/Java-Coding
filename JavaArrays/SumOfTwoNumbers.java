@@ -1,4 +1,4 @@
-package JavaArrays;
+
 import java.util.*;
 public class SumOfTwoNumbers {
 
